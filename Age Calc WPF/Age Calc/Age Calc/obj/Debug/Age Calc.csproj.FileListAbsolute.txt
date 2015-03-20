@@ -1,0 +1,13 @@
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\bin\Debug\Age Calc.exe.config
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\MainWindow.baml
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\MainWindow.g.cs
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\App.g.cs
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc_MarkupCompile.cache
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.g.resources
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age_Calc.Properties.Resources.resources
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.csproj.GenerateResource.Cache
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\bin\Debug\Age Calc.exe
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\bin\Debug\Age Calc.pdb
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.exe
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.pdb
+I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.csprojResolveAssemblyReference.cache
