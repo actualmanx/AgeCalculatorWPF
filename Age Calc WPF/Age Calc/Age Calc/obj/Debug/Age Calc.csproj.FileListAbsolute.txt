@@ -11,3 +11,17 @@ I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\bin\Debug\Age Calc.pdb
 I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.exe
 I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.pdb
 I:\Coding\C#\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.csprojResolveAssemblyReference.cache
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\bin\Debug\Age Calc.exe.config
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\bin\Debug\Age Calc.exe
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\bin\Debug\Age Calc.pdb
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\MainWindow.baml
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\MainWindow.g.cs
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\App.g.cs
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc_MarkupCompile.cache
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.g.resources
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age_Calc.Properties.Resources.resources
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.csproj.GenerateResource.cache
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.exe
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.pdb
+C:\Users\Kieran\Documents\GitHub\AgeCalculatorWPF\Age Calc WPF\Age Calc\Age Calc\obj\Debug\Age Calc.csprojResolveAssemblyReference.cache
