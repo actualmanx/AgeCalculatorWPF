@@ -9,7 +9,7 @@
                 <GradientStop Color="#FFB6B2B2" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Label Content="Select Todays Date" HorizontalAlignment="Left" Height="24" Margin="23,29,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFF5F4F4">
+        <Label Content="Select Todays Date" HorizontalAlignment="Left" Height="24" Margin="23,29,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFF5F4F4" FontSize="11">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="0"/>
@@ -25,7 +25,7 @@
                 </LinearGradientBrush>
             </DatePicker.Background>
         </DatePicker>
-        <Label Content="Your Birth date" HorizontalAlignment="Left" Height="24" Margin="23,109,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFFDFDFD">
+        <Label Content="Your Birth Date" HorizontalAlignment="Left" Height="24" Margin="23,109,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFFDFDFD" FontSize="11">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="0"/>
@@ -33,7 +33,7 @@
                 </LinearGradientBrush>
             </Label.Background>
         </Label>
-        <Label Content="Your Current Age" HorizontalAlignment="Left" Height="24" Margin="23,190,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFFDFDFD">
+        <Label Content="Your Current Age" HorizontalAlignment="Left" Height="24" Margin="23,190,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFFDFDFD" FontSize="11">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="0"/>
