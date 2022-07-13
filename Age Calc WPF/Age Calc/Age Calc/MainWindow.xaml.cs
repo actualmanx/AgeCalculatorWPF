@@ -24,6 +24,9 @@ namespace Age_Calc
         public MainWindow()
         {
             InitializeComponent();
+            //Initialize the date as Today's Date
+            datePick1.SelectedDate = DateTime.Today.Date;
+            datePick2.SelectedDate = DateTime.Today.Date;
         }
 
         private void calcAge(object sender, RoutedEventArgs e)
